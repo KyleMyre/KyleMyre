@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Sikrox Memer
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Python , JavaScript , Php . . .
