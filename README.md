@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sikrox Memer
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning Python , JavaScript , Php . . .
+- 🌱 I’m currently learning Python , JavaScript , Php . . .<br/>
+*Back Story:*<br/>
 **What you know about rollin' down in the deep?
 When your brain goes numb, you can call that mental freeze
 When these people talk too much, put that shit in slow motion, yeah
