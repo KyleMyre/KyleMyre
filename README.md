@@ -52,3 +52,6 @@ What you know about rollin' down in the deep?
 When your brain goes numb, you can call that mental freeze
 When these people talk too much, put that shit in slow motion, yeah
 I feel like an astronaut in the ocean**
+<p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=SikroxMemer&theme=onedark&column=8" class="center">
+  </p>
