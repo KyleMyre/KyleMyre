@@ -1,5 +1,5 @@
 ## Background
-Hi , Am Simon , 18 years old Programmer . I loved programing since i was a kid , i was making some simple apps back then .
+Hi , Am Simon or Mohamed if you want , 18 years old Programmer . I loved programing since i was a kid , i was making some simple apps back then .
 I Like playing video games and watch movies.
 
 It is a pleasure to meet you
