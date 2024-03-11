@@ -4,7 +4,7 @@ I Like playing video games and watch movies.
 
 It is a pleasure to meet you
 
-![](https://komarev.com/ghpvc/?username=SikroxMemer)
+![](https://komarev.com/ghpvc/?username=SikroxMemer&color=yellow)
 
 ## Stack
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
