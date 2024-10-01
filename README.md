@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kyle-myre&label=Profile%20views&color=0e75b6&style=flat" alt="kyle-myre" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyle-myre" alt="kyle-myre" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kyle-myre&column=-1" alt="kyle-myre" /></a> </p>
+
+
 
 - 🌱 I’m currently learning **Vue.js and Next.js**
 
